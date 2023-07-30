@@ -1,0 +1,1 @@
+pytest -m "sanity" -rA --browser=firefox
