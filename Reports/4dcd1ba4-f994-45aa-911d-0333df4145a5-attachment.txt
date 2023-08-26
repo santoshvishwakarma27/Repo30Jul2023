@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_login.py:70 TC 1 Started
+[32mINFO    [0m root:test_login.py:86 TC 1 Passed
